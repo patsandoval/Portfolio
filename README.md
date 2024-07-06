@@ -55,8 +55,11 @@ I also have significant experience in backend development, which I gained during
 
 ## Certifications
 
-- **Certificate of Competency**: Issued by [Internship Organization], this certification demonstrates my skills and expertise in backend development.
-- **Link to Certificate**: [View Certificate](#)
+- **Certificate of Competency**: Issued by [Pixel8], this certification demonstrates my skills and expertise in backend development.
+- **Link to Certificate**: [[View Certificate](https://github.com/patsandoval/Portfolio/blob/main/Pixel8%20Academy%20-%20Competency%20Certificate%20(Backend)%20-%20Patricia%20Ann%20C.%20Sandoval.pdf)](#)
+
+- - **Certificate of Training**: Issued by [Pixel8], this certification validates my skills and expertise in backend development.
+- **Link to Certificate**: [[View Certificate](https://github.com/patsandoval/Portfolio/blob/main/Sandoval-%20CERTIFICATE%20OF%20TRAINING%20(3).pdf)](#)
 
 ## Contact
 

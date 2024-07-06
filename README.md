@@ -19,7 +19,11 @@ Explore screenshots of Coralz:
 
 #### Erudition: Physical Science Mobile Game-Based Learning
 - **Technologies Used**: Unity, C#
-- **Description**: This project was developed for a college project "Erudition: Physical Science mobile game-based learning". I was part of the team and is in charge of developing the Free Fall Game module. The game is a simple yet thrilling game where you guide a frog through the sky, dodging obstacles like saws, birds, and etc. until the user reach the bottom without getting damaged by the obstacles.
+- **Description**: This project, developed for the college project "Erudition: Physical Science mobile game-based learning," involved creating interactive game modules. I took charge of developing two modules: 
+
+1. **Free Fall Game**: A thrilling game where players guide a frog through the sky, avoiding obstacles such as saws and birds until safely reaching the bottom.
+   
+2. **Platformer Game**: In this game, players complete levels by navigating platforms, avoiding obstacles, and monitoring their distance and speed.
 
 Explore screenshots of Erudition:
 

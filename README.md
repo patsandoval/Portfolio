@@ -62,5 +62,5 @@ I also have significant experience in backend development, which I gained during
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on future projects!
 
-- **Email**: [patsan0712@mail.com](mailto:your.email@example.com)
+- **Email**: [patsan0712@gmail.com](mailto:your.email@example.com)
 - **LinkedIn**: [www.linkedin.com/in/patricia-ann-sandoval-0290b3231](#)
